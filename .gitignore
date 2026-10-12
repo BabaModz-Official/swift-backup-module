@@ -1,0 +1,6 @@
+*.apk
+*.apkm
+*.zip
+switch-update.json
+swift-update.json
+truecallermodule/
