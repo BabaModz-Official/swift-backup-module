@@ -1,6 +1,7 @@
-## Swift Backup Premium v5.0.6 (598) - BABAMODZ Official
+## Swift Backup Premium v5.1.0 (620)
 
-- ✨ **Premium Unlocked**: Cloud Backup, Scheduled Backups & All Pro Features Activated
-- 🔧 **Systemless Mount**: Automatically installs official stock APK and bind-mounts modded APK (Google Sign-In & Cloud Backup working)
-- 🛡️ **Auto Play Store Detach**: Automatically adds org.swiftapps.swiftbackup to zygisk-detach if installed
-- ⚡ **Hot Install Support**: No reboot required when installing or updating via Magisk / KernelSU / APatch
+- 🚀 **Updated Base to v5.1.0 (620)**
+- 💎 **Premium Unlocked**: Cloud Backup, Scheduled Backups, App Data & Wi-Fi sync
+- 🛡️ **Conflict Data Guard**: Automatically preserves /data/data/org.swiftapps.swiftbackup session during install/uninstall conflicts
+- ⚡ **Play Store Auto-Detach**: Integrates with zygisk-detach to stop automatic store updates
+- 🔄 **OTA Support**: Direct seamless update via Magisk / KernelSU / APatch
